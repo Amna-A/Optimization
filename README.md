@@ -13,8 +13,11 @@ make sure to install the library [Numdifftools](https://pypi.org/project/numdiff
 To install this package with conda run one of the following:
 
 `conda install -c conda-forge numdifftools`
+
 `conda install -c conda-forge/label/gcc7 numdifftools`
+
 `conda install -c conda-forge/label/cf201901 numdifftools`
+
 `conda install -c conda-forge/label/cf202003 numdifftools`
 
 However, The notebook will work perfectly if you have Jupyter installed seperately.
