@@ -20,4 +20,4 @@ To install this package with conda run one of the following:
 
 `conda install -c conda-forge/label/cf202003 numdifftools`
 
-However, The notebook will work perfectly if you have Jupyter installed seperately.
+However, The notebook will work perfectly fine if you have Jupyter installed seperately.
