@@ -1,4 +1,4 @@
-# Optimization
+# Optimization  [![HitCount](http://hits.dwyl.com/{Amna-A}/{Optimization}.svg)](http://hits.dwyl.com/{Amna-A}/{Optimization})
 
 This repository contains three optimization methods:
 1. Random Search
